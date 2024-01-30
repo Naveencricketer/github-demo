@@ -1,0 +1,12 @@
+PORTFOLIO:
+SELECT *
+      FROM rpx_api.lm_get_license_asset_details(
+        p_license_id := 529,
+        p_columns_json := 'patnum,source,patent_id,portfolio_id'::text,
+        p_limit := 20,
+        p_sort_by := 'patnum',
+        p_sort_order := 'asc',
+        p_offset := 0,
+        p_account_id := 3561,
+        p_is_patent_sort := true, p_portfolio_id := null   
+      );
