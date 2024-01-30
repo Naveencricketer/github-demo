@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 select distinct account_id from lm_app_enc_v2.lm_licenses ;
  
  
@@ -15,3 +16,22 @@ select * from lm_patent_restriction_types;
 select * from lm_app_enc_v2.lm_license_restrictions limit 10;
  
 select * from lm_app_enc_v2.lm_license_rights limit 10;
+=======
+select distinct account_id from lm_app_enc_v2.lm_licenses ;
+ 
+ 
+select * from lm_app_enc_v2.lm_licenses where account_id=1 limit 10;
+ 
+ 
+select * from lm_app_enc_v2.lm_license_grantor_grantee where lm_license_id = 1;
+ 
+select * from lm_app_enc_v2.lm_fee_types;
+ 
+select * from lm_app_enc_v2.lm_license_fees where lm_license_id =1;
+ 
+select * from lm_patent_restriction_types;
+ 
+select * from lm_app_enc_v2.lm_license_restrictions limit 10;
+ 
+select * from lm_app_enc_v2.lm_license_rights limit 10;
+>>>>>>> 0c3347bfee6ce4f914754601e1d9cfc8c7f585ce
