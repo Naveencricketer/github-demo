@@ -1,0 +1,131 @@
+Yesterday I had finished writing two test cases.That ticket number is LM-71, and another one is LM-83.
+Today I am going to work on whatever ticket will come to Qa deployment. I will test everything.
+
+
+Yesterday I had finished testing two ticket.That ticket number is LM-71, and another one is LM-83.de
+LM-71 License detail page summary section edit functionality
+LM-83 Enhancement fee detail section 
+
+today i going to work on, whatever ticket pending qa deployement,i will test everything
+
+exa
+a61p33
+online
+
+The shadow border needs to be made lighter
+
+while clicking text box border needs to be brightened
+
+Yesterday I had finished testing two ticket.That ticket number is LM-86, and another one is LM-84
+LM-86 Facet filter | Assignee name, tech tags and cpc code field auto suggestion,we have found some bug that bug not high priority.we have create separate bug ticket next sprint.
+
+  
+LM-84 License creation&detail page related issues
+
+Today I am going to work on writing test case.
+
+
+last friday I had finished testing  that ticket number LM-84 and i created new user empower member role qa and dev in 
+QA:
+viewer-5
+editor-5
+dev:
+viewer-5
+editor-5
+
+Today I am going to work on writing test case.
+
+last friday I had checked with Roku data with Acquiflow UI and lm UI
+encumbrance report 
+encumbrance patent report
+lm license report
+lm license patent report
+
+
+Finished Roku data 1–50 were examined 
+
+There is no display of the right-section sublicense start date on the license detail page,mentioned screen shot.
+
+last friday I had checked with Roku data with Acquiflow UI and lm UI
+encumbrance report 
+encumbrance patent report
+lm license report
+lm license patent report 
+ 
+Sublicense-983,1057,632,866,807
+
+
+Yesterday I had finished writing testcase two ticket.That ticket number is lm-115 AND lm-116.
+lm-115-RIGHT SECTION UPDATE UI
+lm-116-Add New right popup UI (License details page)
+ 
+Today I am going to work on whatever ticket will come to Qa deployment. I will test everything AND Write test case about all the remaining tickets.
+
+
+
+Yesterday I had finished writing testcase two ticket.That ticket number is lm-120 AND lm-124
+LM-120 DEAL Details Page Asset tab (table) implementation
+LM-124 Multiple file upload implementation in Agreement Section
+I had finished testing license management Every section and every tabs.
+
+yesterday i had checked whatever data was coming license management application. 
+Solar data also coming search result page and search result page. 
+and DB data was coming other sections.
+
+yesterday i had testing checked everythings license management application checked everythings,every fields everysections and every tabs.
+whatever bug i find created separate bug ticket that ticket number lm-138 i was put it there 
+.
+yesterday i had testing checked everythings license management application.
+whatever bug i find i was ADDED there ticket number lm-138,
+and calender popup was not displaying properly.
+IN the rights section while creating rights same rights has arrived twice that was expected.
+
+yesterday i had testing two ticket two ticket that ticket number LM-116 and LM-142 
+LM-116-Add New right popup UI(DEAL DETAIL PAGE)
+LM-142-Order of rights is not correct
+What ever bugs i found i informed  developer
+
+last friday i had testing two ticket that ticket numbet LM-120 and LM-133
+LM-120-Deal detail page asset tab implementation
+LM-133-Feedback placeholder
+ONE Ticket we have move pm review that deal detail page asset tab implementation.
+
+last monday i had testing two ticket that ticket number lm-76 and LM -121
+LM-76-RPX DATA VIEW
+LM-121-RPX ICON IMPLEMENTATION we have find some bugs whoever worked that ticket once it is confirmed after if it is bug we have created separated bug ticket 
+
+yesterday i finished testing that ticket number
+LM-130 - roku data related issues.compare with kasi given update excel files
+Encumbrance data_report
+License data report
+Analyst Portfolios_report 
+still few thing Pending.and one more thing 
+Testing with stage environment Every section,tabs,fields these thing also
+
+yesterday i had finsished testing that ticket number LM-163 
+i already created sub task ticket- Asset tab Ui related issues i did not see any UI related issues in that ticket. so i moved pm review 
+and 
+I checked with lM Application QA I compare to mock up and LM UI,what ever issue  I FIND  Ui related issue i informed representative developer.
+i send that Ui related Issues Yesterday,Are you fixed that issues.
+
+Yesterday, I finished testing ticket number LM-163.Asset tab Ui-related issues
+I already created a sub-task ticket. in that ticket I did not see any UI-related issues in that ticket. So I moved PM review
+and 
+I checked with Ui LM Application QA. I compared the mockup to the LM UI,What ever Ui related issue i find i informed representative developer.
+i send those UI related issue.font size,font color,font style  did you fixed that issues.
+
+
+Yesterday, I finished writing test case two that tiket number lm-164 and lm-169 
+lm-164-Assets tab | Enable editing for restrictions and rights
+lm-169 RPX data view - blue bar
+
+yesterday i checked with Ui LM. QA and stage environment . 
+I compared the upadate mockup to the LM UI,
+What ever Ui related issue i find  i was created improvement ticket 
+that ticket number-181 i was added there what is issue and mentioned screenshot also
+
+
+
+
+
+
