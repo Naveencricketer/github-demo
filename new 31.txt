@@ -1,0 +1,5 @@
+select * from lm_app.lm_licenses where id = 435;
+--
+update lm_app.lm_licenses set related_encumbrance_id = null where id=1276
+diqhidhqidhdhkdhkdhkhkhdqkhkhksdag
+naveen
