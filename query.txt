@@ -1,0 +1,7 @@
+select * from lm_license_users_map where lm_license_id= 1009; -Summary section
+select * from lm_app.lm_fee_types;-fee section
+ 
+SELECT * FROM lm_app.lm_license_documents WHERE lm_license_id = 1009 AND is_deleted = 'false';-agreement section
+SELECT * FROM rpx_api.lm_get_license_history(p_license_id := 1009)-history section
+select * from lm_app.lm_audit_fields;
+select * from lm_app.lm_patent_right_types where id = 8;rights section
